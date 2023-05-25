@@ -5,7 +5,7 @@ terraform {
 
   cloud {
     workspaces {
-      name = "learn-terraform-eks"
+      name = "terraform-aws-backbones-resources"
     }
   }
 
